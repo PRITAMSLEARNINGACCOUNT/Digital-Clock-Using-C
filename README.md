@@ -1,2 +1,9 @@
 # Digital-Clock-Using-C
-In this Repository i am uploading A digital clock made by me in c programming
+
+# Pre-Requisitory
+
+- Must Have GCC Compiler(MinGW Compiler/Dev C++) Installed Latest Version
+
+# Installation
+
+- Run Clock.c File For Starting The Digital Clock.
